@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "427679860315",
+    "project_id": "jesisproject",
+    "storage_bucket": "jesisproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427679860315:android:0bfaf1433617d44a4da17e",
+        "android_client_info": {
+          "package_name": "com.bawp.jesisproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427679860315-j0aca9lskvug23pde9rnqkstqn5p3du0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bawp.jesisproject",
+            "certificate_hash": "9a1f5fb37976082fcfc71e2cc26c3ab0f52f0c26"
+          }
+        },
+        {
+          "client_id": "427679860315-ka4k3vk5k6uj3962k4rpcv5indk379g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwppb9EzEKYHgfOBzhgQMB5O_9HU4v8w0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427679860315-ka4k3vk5k6uj3962k4rpcv5indk379g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

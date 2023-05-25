@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.bawp.jesisproject">
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/blood_donation_app_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/blood_donation_app_icon"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Jesisproject"
+        tools:targetApi="31">
+        <activity
+            android:name=".forgetpassword"
+            android:exported="false" />
+        <activity
+            android:name=".about"
+            android:exported="false" />
+        <activity
+            android:name=".donated"
+            android:exported="false" />
+        <activity
+            android:name=".notf"
+            android:exported="false" />
+        <activity
+            android:name=".notificationactivity"
+            android:exported="false" />
+        <activity
+            android:name=".Apositiveactivity"
+            android:exported="false" />
+        <activity
+            android:name=".primeactivity2"
+            android:exported="false" />
+        <activity
+            android:name=".profileactivity"
+            android:exported="false" />
+        <activity
+            android:name=".primeactivity"
+            android:exported="false" />
+        <activity
+            android:name=".donorregistrationactivity"
+            android:exported="false" />
+        <activity
+            android:name=".recipientregistrationactivity"
+            android:exported="false" />
+        <activity
+            android:name=".selectregistrationactivity"
+            android:exported="false" />
+        <activity
+            android:name=".loginactivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
