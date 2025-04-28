@@ -3,6 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/drawable-v24/ic_about.xml" value="0.2405" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/drawable-v24/ic_share.xml" value="0.2405" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/drawable/ic_id_icon.xml" value="0.2405" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/drawable/navigation_selector.xml" value="0.2405" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/drawable/navigation_view_item_selected.xml" value="0.2555" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/layout/activity_apositiveactivity.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/layout/activity_donated.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/layout/activity_donorregistrationactivity.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/layout/activity_loginactivity.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/layout/activity_notf.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/layout/activity_primeactivity.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/layout/activity_primeactivity2.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/layout/header.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/layout/userdisplaylayout.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/layout/userdisplaylayout2.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/layout/userdisplaylayout3.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/Desktop/blood/Blood-Donation-App/Jesisproject/app/src/main/res/menu/main_menu.xml" value="0.25" />
         <entry key="..\:/Users/ASUS/Jesisproject/app/src/main/res/drawable-v24/ic_about.xml" value="0.1" />
         <entry key="..\:/Users/ASUS/Jesisproject/app/src/main/res/drawable-v24/ic_check.xml" value="0.1" />
         <entry key="..\:/Users/ASUS/Jesisproject/app/src/main/res/drawable-v24/ic_logout.xml" value="0.1" />
